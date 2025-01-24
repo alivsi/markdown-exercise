@@ -4,7 +4,7 @@ I'm applying for a new job and I haven't used Markdown for a while but here I am
 yes, I am <br>
 rocking it. <br>
 Now I'm adding an image of Halloween tortuconchas, gorgeous pan dulce my friend Karla makes
-![Picture of tortuconchas](https://github.com/alivsi/markdown-exercise/blob/start-markdown/.github/lastortujalowins.jpg)
+![Picture of tortuconchas](https://github.com/alivsi/markdown-exercise/blob/main/lastortujalowins.jpg)
 ``` python 
 # This program prints Hello, world!
 print('Hello, world!')
